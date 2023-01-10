@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+<student>
+     <stuid>1</stuid>
+     <name>sameer</name>
+     <percentage>60</percentage>
+</student>
+<student>
+     <stuid>2</stuid>
+     <name>hasham</name>
+     <percentage>50</percentage>
+</student>
+<student>
+     <stuid>3</stuid>
+     <name>haroon</name>
+     <percentage>50</percentage>
+</student>
+<student>
+     <stuid>4</stuid>
+     <name>owais</name>
+     <percentage>55</percentage>
+</student>
+
+
+</result>
